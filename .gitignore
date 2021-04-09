@@ -1,0 +1,10 @@
+*.csv
+*.npy
+*.pkl
+*.pt
+*.txt
+*.log
+*.tsv
+model
+.ipynb_checkpoints
+__pycache__
